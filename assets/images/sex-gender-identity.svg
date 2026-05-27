@@ -1,22 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" role="img" aria-label="''+'+�	��:�">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" role="img" aria-label="性、性别与性别认同三概念关系示意图">
   <defs>
     <style>
       .label { font-family: "Noto Sans SC", sans-serif; font-size: 14px; fill: #1a1a1a; }
-      .sub { font-size: 11px; fill: #4a4a4a; }
+      .sub { font-family: "Noto Sans SC", sans-serif; font-size: 11px; fill: #4a4a4a; }
     </style>
   </defs>
   <circle cx="150" cy="140" r="95" fill="#e8f0f8" stroke="#2c5282" stroke-width="2" opacity="0.9"/>
   <circle cx="330" cy="140" r="95" fill="#f0ebe8" stroke="#6b4c3b" stroke-width="2" opacity="0.9"/>
   <circle cx="240" cy="175" r="95" fill="#eef6ee" stroke="#2d6a4f" stroke-width="2" opacity="0.9"/>
-  <text x="95" y="75" class="label" font-weight="600">' (Sex)</text>
-  <text x="70" y="95" class="sub">�rS� </text>
-  <text x="70" y="110" class="sub">�h�I</text>
-  <text x="285" y="75" class="label" font-weight="600">'+ (Gender)</text>
-  <text x="268" y="95" class="sub">>��r</text>
-  <text x="268" y="110" class="sub">L:�</text>
-  <text x="195" y="230" class="label" font-weight="600">'+�</text>
+  <text x="95" y="75" class="label" font-weight="600">性 (Sex)</text>
+  <text x="70" y="95" class="sub">染色体·激素·器官</text>
+  <text x="285" y="75" class="label" font-weight="600">性别 (Gender)</text>
+  <text x="268" y="95" class="sub">社会规范·角色</text>
+  <text x="195" y="230" class="label" font-weight="600">性别认同</text>
   <text x="175" y="248" class="sub">(Gender Identity)</text>
-  <text x="168" y="265" class="sub">�(*SS�</text>
-  <text x="195" y="145" class="sub" text-anchor="middle">���</text>
-  <text x="195" y="160" class="sub" text-anchor="middle">��:</text>
+  <text x="168" y="265" class="sub">内在、个体的性别体验</text>
+  <text x="195" y="145" class="sub" text-anchor="middle">相互关联</text>
+  <text x="195" y="160" class="sub" text-anchor="middle">非一一对应</text>
 </svg>
